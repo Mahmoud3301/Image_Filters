@@ -19,15 +19,6 @@ This project is a **desktop application** built with **PyQt5** that allows users
 
 ---
 
-## 📷 Screenshots
-
-You can include screenshots of the application here:
-
-![Original Image](assets/original_example.png)  
-![Canny Example](assets/canny_example.png)  
-![Classification Result](assets/result_example.png)  
-
----
 
 ## ⚙️ Requirements
 
